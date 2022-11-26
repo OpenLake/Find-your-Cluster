@@ -14,5 +14,5 @@ This project is in its first iteration hence have to be started from Scratch. Yo
 
 ## Contribution Guidelines ✨
 Please go through the Wiki. Even a small contribution helps. All forms of contributions are highly welcomed and valued.
-- [How to create a PR?](https://github.com/OpenLake/Not-a-Mess/wiki/How-to-create-a-PR%3F)
-- [PR Format Guidelines](https://github.com/OpenLake/Not-a-Mess/wiki/PR-Format-Guidelines)
+- [How to create a PR?](https://github.com/OpenLake/Find-your-Cluster/wiki/How-to-create-a-PR%3F)
+- [PR Format Guidelines](https://github.com/OpenLake/Find-your-Cluster/wiki/PR-Format-Guidelines)
