@@ -2,9 +2,9 @@
 There are many freshers in college who want to be with peers who are aligned with similar interests. We try to create clusters of people who share similar interests. People who enjoy book-reading or coding can then find a healthy environment to grow their hobby into a passion if they want too.
 
 ## Suggested Techstack 👩‍💻
-Frontend - Flutter or React Native
-Backend - Node.js or python
-Other - tensorflow [ Recommender system ]
+- Frontend - Flutter or React Native
+- Backend - Node.js or python
+- Other - tensorflow [ Recommender system ]
 
 ## Maintainers ☀️
 
