@@ -1,4 +1,4 @@
-package com.example.find_your_cluster
+package com.openLake.find_your_cluster
 
 import io.flutter.embedding.android.FlutterActivity
 
